@@ -297,7 +297,7 @@ h1{
       text-align: center;
   }
 
-  video{
+  .vid1 img, .vid2 img, .vid3 img,.vid4 img{
       width: 100%;
   }
 
